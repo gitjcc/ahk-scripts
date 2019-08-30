@@ -1,0 +1,9 @@
+!c:: Send ^c
+!v:: Send ^v
+!x:: Send ^x
+!s:: Send ^s
+!w:: Send ^w
+!r:: Send ^r
+!a:: Send ^a
+!z:: Send ^z
+!q:: Send !{F4}
