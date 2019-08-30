@@ -6,4 +6,5 @@
 !r:: Send ^r
 !a:: Send ^a
 !z:: Send ^z
+!+z:: Send ^+z
 !q:: Send !{F4}
