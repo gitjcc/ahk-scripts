@@ -8,5 +8,6 @@
 !z:: Send ^z
 !+z:: Send ^+z
 !f:: Send ^f
-!+f:: Send ^+f
+; !+f:: Send ^+f
+!BS:: Send ^+k
 !q:: Send !{F4}
